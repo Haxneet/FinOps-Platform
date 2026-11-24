@@ -6,20 +6,20 @@ Term project: a Streamlit dashboard for cloud cost visibility, planning and opti
 
 | Module | Page | Owner |
 |---|---|---|
-| 1 Pricing Explorer | pages/2_Pricing_Explorer.py | Areeba (TBC) |
-| 2 Cost Explorer | pages/3_Cost_Explorer.py | Areeba (TBC) |
+| 1 Pricing Explorer | pages/2_Pricing_Explorer.py | Unassigned (Areeba has not picked yet) |
+| 2 Cost Explorer | pages/3_Cost_Explorer.py | Unassigned (Areeba has not picked yet) |
 | 3 Infrastructure Builder | pages/4_Infrastructure_Builder.py | Bhawan |
 | 4 Cost Estimator | pages/5_Cost_Estimator.py | Bhawan |
-| 5 Pricing Comparison | pages/6_Pricing_Comparison.py | Areeba (TBC) |
+| 5 Pricing Comparison | pages/6_Pricing_Comparison.py | Unassigned (Areeba has not picked yet) |
 | 6 Workload Simulator | pages/7_Workload_Simulator.py | Harneet |
-| 7 Cost Optimizer | pages/8_Cost_Optimizer.py | Areeba (TBC) |
-| 8 Reporting | pages/14_Reports.py | Areeba (TBC) |
+| 7 Cost Optimizer | pages/8_Cost_Optimizer.py | Unassigned (Areeba has not picked yet) |
+| 8 Reporting | pages/14_Reports.py | Unassigned (Areeba has not picked yet) |
 | 9 Budget Management | pages/9_Budget_Management.py | Bhawan |
-| 10 Resource Utilization | pages/10_Resource_Utilization.py | Areeba (TBC) |
-| 11 Cost Allocation | pages/11_Cost_Allocation.py | Areeba (TBC) |
+| 10 Resource Utilization | pages/10_Resource_Utilization.py | Unassigned (Areeba has not picked yet) |
+| 11 Cost Allocation | pages/11_Cost_Allocation.py | Unassigned (Areeba has not picked yet) |
 | 12 Scaling Analysis | pages/12_Scaling_Analysis.py | Harneet |
 | 13 Storage and Backup | pages/13_Storage_and_Backup.py | Harneet |
-| Home page | app.py | Areeba (TBC) |
+| Home page | app.py | Unassigned (Areeba has not picked yet) |
 
 ## Quick start
 
